@@ -1,0 +1,88 @@
+.bg-green
+{
+    background-color: #003009;
+}
+
+.bg-light-green
+{
+    background-color: #b0fcb9;
+    color: #000000;
+}
+
+
+.text-light-green {
+  color: #ccf8d1;
+}
+
+.text-green {
+  color: #003009;
+}
+
+.background
+{
+    background-image: linear-gradient(to bottom,#DCFFE0, #f2fdf3);
+    min-height: 100vh;
+}
+
+
+.image
+{
+    height: 500px;
+    width: 400px;
+}
+
+
+.name
+{
+    
+  font-size: 50px;
+  font-weight: bold;
+  font-style: italic;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+.helpers
+{
+    font-size: large;
+    font-style: oblique;
+}
+
+.logo
+{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
+.img-edu
+{
+    height: 270px;
+    width: 270px;
+}
+
+.border-green
+{
+    border: 5px solid #003009;
+}
+
+.img-exp
+{
+    height: 470px;
+    width: 370px;
+}
+
+.personal-carousel img {
+  height: 600px;
+  object-fit: cover;
+  border-radius: 16px;
+}
+
+.personal-text {
+  max-width: 1200px;
+  margin: 0 auto;
+  font-size: 1.05rem;
+  line-height: 1.8;
+  color: #333;
+}
