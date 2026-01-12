@@ -9,6 +9,11 @@
     color: #000000;
 }
 
+.bg-light-greenn
+{
+    background-color: #e9fbeb;
+    color: #000000;
+}
 
 .text-light-green {
   color: #ccf8d1;
@@ -85,4 +90,15 @@
   font-size: 1.05rem;
   line-height: 1.8;
   color: #333;
+}
+
+
+.btn-green {
+  background-color: #003009; 
+  color: #ffffff;
+
+}
+.btn.btn-green:hover {
+  background-color: #b0fcb9; 
+  color: #000000;
 }
